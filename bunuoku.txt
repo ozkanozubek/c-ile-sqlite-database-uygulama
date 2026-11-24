@@ -1,0 +1,6 @@
+1- Proje ile ayný klasöre sqlite3.h dosyasýný koy
+2- Proje ile ayný klasöre sqlite3.lll dosyasýný koy
+3- Project/Project Options ile gelen pencerenin Parameters kýsmýndaki Linker listesine
+   sqlite3.dll yaz ve onayla
+   
+
